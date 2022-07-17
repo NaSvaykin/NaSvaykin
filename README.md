@@ -1,15 +1,16 @@
- <h1 align="center">
- <h1> Junior developer</h1>
-
+Junior developer
+================
 <div id="header" align="center"
 
 
 ![foto](https://cdn.discordapp.com/splashes/147621048056152064/053ecc8dd2bd746bf6660157cfd4dc12.jpg?size=512)
      
-<p>Svaykin Anatoliy</p>     
-1. HTML
-2. CSS
-3. JScript
+***Anatoliy Svaykin (bold italic)***
+ ```
+     HTML :heavy_check_mark:
+     CSS :heavy_check_mark:
+     JScript :heavy_check_mark:
+```
      
      
 :point_down:
